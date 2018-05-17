@@ -7,6 +7,7 @@ Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
 #### Demo
 
 See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](http://vuejs-poster-shop.vuejsdevelopers.com/)
+![DEMO](./public/assets/demo.gif)
 
 #### Pre-installation
 
